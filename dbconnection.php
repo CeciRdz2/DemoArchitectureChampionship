@@ -3,7 +3,7 @@
 	Conexión con MySQL y PHP
 	@author Mario Palato
 */
-$contraseña = "Hola.123";
+$contraseña = "C0mPuc10Ud.123";
 $usuario = "admin";
 $nombre_base_de_datos = "pruebas";
 $host = "test-rds.ckkusvkujdiw.us-east-1.rds.amazonaws.com";
