@@ -1,1 +1,1 @@
-# DemoArchitectureChampionship
+# Architecture Championship - Core Services - Compucloud
