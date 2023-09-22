@@ -2,7 +2,7 @@
 <?php
 /*
 	Guardando datos del usuario en la BD
-	@author Mario Palato
+	@author Compucloud
 */
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
