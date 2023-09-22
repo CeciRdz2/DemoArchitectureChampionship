@@ -1,7 +1,7 @@
 <?php
 /*
 	Listar usuarios desde la BD y mostrarlos en una tabla
-	@author Mario Palato
+	@author Compucloud
 */
 include_once "dbconnection.php";
 $sentencia = $base_de_datos->query("SELECT * FROM personas;");
